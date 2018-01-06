@@ -1,7 +1,7 @@
 {
-  "name": "Gulp Front-End Starter Kit codesains",
+  "name": "Gulp-Front-End-Starter",
   "version": "1.0.0",
-  "description": "Gulp Front-End Starter Kit codesains - static site builder with a lot of cool features",
+  "description": "Gulp Front-End Starter Kit- static site builder with a lot of cool features",
   "engines": {
     "node": ">=8.9.1",
     "npm": ">=5.5.0"
